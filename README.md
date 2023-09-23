@@ -10,8 +10,8 @@ Time spent: 2 hours spent in total
 
 The following **required** functionality is completed:
 
-- [x ] App displays a keyboard on the screen
-- [x ] When tapping on the keyboard, a letter is shown or deleted (letter selected)
+- [x] App displays a keyboard on the screen
+- [x] When tapping on the keyboard, a letter is shown or deleted (letter selected)
 - [x] User can play a basic version of Wordle, with different goal words each time
 
 The following **optional** features are implemented:
@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+got the word first try! 
 
 ![wordleproject](https://github.com/suhmir/ios101-project1-wordle-starter-main/assets/111587247/486c98ca-ac8a-4e82-8895-97807a8face4)
 ) .
