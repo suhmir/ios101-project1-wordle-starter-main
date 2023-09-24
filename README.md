@@ -4,7 +4,6 @@ Submitted by: Samir Pandit
 
 Wordle is an app that replicates the popular wordle game. It allows user to guess a 5 letter word. They have 5 attempts to get the word right.
 
-Time spent: 2 hours spent in total
 
 The following functionality is completed:
 
